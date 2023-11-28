@@ -196,9 +196,6 @@ The primary goal of this project is to introduce an Ambient Intelligence system 
    - :FarmArea managesResource :FoodSupply
    -
 
- :EmergencyArea managesResource :WaterTank
-   - ...
-
 4. **triggersAlarm:**
    - :TemperatureSensor triggersAlarm :YellowAlarm
    - :HumiditySensor triggersAlarm :RedAlarm
