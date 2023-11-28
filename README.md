@@ -3,18 +3,11 @@
 ## Project Overview
 Welcome to the Ambient Intelligence project for optimizing the environment in a Mars habitat, with a focus on the colonization of Mars. This ontology models the physical infrastructure, control of sources, and the integration of a Mars Garden for sustainable plant growth. Additionally, the ontology represents Martian colonists, their roles, health status, and interactions with the habitat.
 
-![Mars Habitat](insert_image_url_here)
-
 ## Project Objective 
 
 The primary goal of this project is to introduce an Ambient Intelligence system for a Mars habitat that optimizes the environment by monitoring various parameters. The system responds dynamically to ensure the well-being of Martian colonists, efficient resource management, and sustainable operations in the habitat.
 
-**Author**: *[Your Name]*, *[Your Email]*
-
-**Course Instructors**: *[Instructor's Name]*
-
 ## Benefits to Users
-
 1. **Colonist Well-being:**
    - *Health Monitoring:* Continuous monitoring of colonists' health ensures early detection and response to health issues.
    - *Personalized Alerts:* The system provides personalized alerts to colonists based on their health status.
@@ -28,7 +21,6 @@ The primary goal of this project is to introduce an Ambient Intelligence system 
    - *Waste Reduction:* Smart resource management minimizes waste, contributing to a sustainable living environment.
 
 ## Ambient Intelligence Aspects
-
 1. **Real-time Data Processing and Analytics:**
    - *Instant Decision-Making:* Continuous data processing enables the system to make instant decisions based on sensor inputs.
    - *Predictive Models:* Predictive models help forecast future conditions, facilitating effective interventions.
@@ -38,7 +30,6 @@ The primary goal of this project is to introduce an Ambient Intelligence system 
    - *Role-Based Adjustments:* Different roles (Biologist, Engineer, Medical Officer, Visitor) have specific environmental adjustments based on their needs.
 
 ## Classes and Subclasses
-
 - **Thing**
   - **Habitat**
     - **Common_area**
@@ -75,7 +66,6 @@ The primary goal of this project is to introduce an Ambient Intelligence system 
     - **Yellow**
 
 ### Object Properties:
-
 1. **controlsSystem**
    - Domain: Habitat
    - Range: Sensor
@@ -149,7 +139,6 @@ The primary goal of this project is to introduce an Ambient Intelligence system 
    - Description: Represents the notification message to be sent to a medical officer when a visitor's health is low.
 
 ### Individuals:
-
 1. **Habitats:**
    - :CommonArea
    - :ControlRoom
