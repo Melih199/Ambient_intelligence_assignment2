@@ -250,4 +250,4 @@ The primary goal of this project is to introduce an Ambient Intelligence system 
    - ...
 
 ## Conclusion
-Our Ambient Intelligence project for Mars colonization optimizes the habitat's environment, ensuring the well-being of colonists, efficient resource management, and sustainable operations. Through continuous monitoring, predictive models, and dynamic adaptation, we have created a system that supports life on Mars by providing a comfortable and safe living environment.
+This Ambient Intelligence project for Mars colonization optimizes the habitat's environment, ensuring the well-being of colonists, efficient resource management, and sustainable operations. Through continuous monitoring, predictive models, and dynamic adaptation, a system that supports life on Mars have been created by providing a comfortable and safe living environment.
